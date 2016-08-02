@@ -1,0 +1,25 @@
+body{
+	background-image: url(111.jpg);
+	background-attachment: fixed;
+	min-height: 1000px;
+
+}
+
+
+
+#header {
+		border: 2px solid #ffffff;
+		text-align: center;
+	    width: 100%;
+    	height: 65px;
+    	background-color: #b4d2be;
+}
+
+
+
+#info {
+	
+	color: #ffffff;
+	text-align: center;
+
+}
